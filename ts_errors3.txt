@@ -1,0 +1,8 @@
+﻿src/components/tracking/LEOSatellites.tsx(55,11): error TS6133: 'colors' is declared but its value is never read.
+src/components/tracking/LEOSatellites.tsx(167,19): error TS2322: Type 'RefObject<Line<BufferGeometry<NormalBufferAttributes>, Material | Material[], Object3DEventMap>>' is not assignable to type 'LegacyRef<SVGLineElement> | undefined'.
+  Type 'RefObject<Line<BufferGeometry<NormalBufferAttributes>, Material | Material[], Object3DEventMap>>' is not assignable to type 'RefObject<SVGLineElement>'.
+    Type 'Line<BufferGeometry<NormalBufferAttributes>, Material | Material[], Object3DEventMap>' is missing the following properties from type 'SVGLineElement': x1, x2, y1, y2, and 296 more.
+src/components/tracking/RealSatellites.tsx(30,11): error TS6198: All destructured elements are unused.
+src/components/tracking/SatelliteDetailPanel.tsx(9,1): error TS6133: 'cn' is declared but its value is never read.
+src/pages/SDRPage.tsx(690,25): error TS2554: Expected 2 arguments, but got 1.
+src/pages/TrackingPage.tsx(21,5): error TS6133: 'RefreshCw' is declared but its value is never read.

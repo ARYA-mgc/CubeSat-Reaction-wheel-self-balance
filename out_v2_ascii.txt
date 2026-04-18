@@ -1,0 +1,11 @@
+Setting GNU Radio environment...
+Done!
+--- Searching in gnuradio.uhd ---
+uhd.usrp_block type: <class 'pybind11_builtins.pybind11_type'>
+uhd.usrp_sink type: <class 'pybind11_builtins.pybind11_type'>
+uhd.usrp_source type: <class 'pybind11_builtins.pybind11_type'>
+
+--- Searching in gnuradio.uhd.uhd_python ---
+uhd_python.usrp_block type: <class 'pybind11_builtins.pybind11_type'>
+uhd_python.usrp_sink type: <class 'pybind11_builtins.pybind11_type'>
+uhd_python.usrp_source type: <class 'pybind11_builtins.pybind11_type'>
