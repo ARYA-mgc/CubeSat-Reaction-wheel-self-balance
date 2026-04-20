@@ -93,19 +93,19 @@ This project was built collaboratively by the following team:
 
 | Role | Name | GitHub |
 |------|------|--------|
-| 👑 Team Leader | ARYA MGC | [@ARYA-mgc](https://github.com/ARYA-mgc) |
-| 🛠️ Member | Ashwin R | [@ashwinr-act-cit](https://github.com/ashwinr-act-cit) |
-| 🛠️ Member | Jayaraj MD | [@jayarajMd](https://github.com/jayarajMd) |
-| 🛠️ Member | Nithi | [@Nithi-tech](https://github.com/Nithi-tech) |
-| 🛠️ Member | Vishal R | [@vishal-r07](https://github.com/vishal-r07) |
+| 👑 Team Leader — System Architecture & Embedded HIL Integration | ARYA M G C | [@ARYA-mgc](https://github.com/ARYA-mgc) |
+| ⚙️ Control Systems & Attitude Dynamics | Ashwin R | [@ashwinr-act-cit](https://github.com/ashwinr-act-cit) |
+| 💻 Simulation Framework & Software Development | Nithivalavan N | [@Nithi-tech](https://github.com/Nithi-tech) |
+| 🔧 Hardware Design & Power Systems | Jayaraj M | [@jayarajMd](https://github.com/jayarajMd) |
+| 📡 Telemetry & Communication Interfaces | Vishal Meyyappan R | [@vishal-r07](https://github.com/vishal-r07) |
 
 ### Collaborators
 
-- [@ARYA-mgc](https://github.com/ARYA-mgc) — Project Lead & Architecture
-- [@ashwinr-act-cit](https://github.com/ashwinr-act-cit) — Core Development
-- [@jayarajMd](https://github.com/jayarajMd) — Core Development
-- [@Nithi-tech](https://github.com/Nithi-tech) — Core Development
-- [@vishal-r07](https://github.com/vishal-r07) — Core Development
+- [@ARYA-mgc](https://github.com/ARYA-mgc) — System Architecture & Embedded HIL Integration
+- [@ashwinr-act-cit](https://github.com/ashwinr-act-cit) — Control Systems & Attitude Dynamics
+- [@Nithi-tech](https://github.com/Nithi-tech) — Simulation Framework & Software Development
+- [@jayarajMd](https://github.com/jayarajMd) — Hardware Design & Power Systems
+- [@vishal-r07](https://github.com/vishal-r07) — Telemetry & Communication Interfaces
 
 ---
 
