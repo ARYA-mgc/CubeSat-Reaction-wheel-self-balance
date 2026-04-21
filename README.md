@@ -3,9 +3,7 @@
 **Modular Hardware-in-the-Loop (HIL) CubeSat Simulation Platform**
 
 A professional-grade web-based simulation platform for CubeSat attitude dynamics and control, built with React, TypeScript, and React Three Fiber.
-
 ## Features
-
 - **Separated Architecture**: Physics Engine and Flight Computer (OBC) are completely decoupled
 - **Real-time 3D Visualization**: Interactive CubeSat model with attitude representation
 - **Advanced Control**: EKF state estimation and PID control implementation
