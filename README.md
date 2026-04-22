@@ -85,6 +85,43 @@ npm run build
 
 ---
 
+## MATLAB & Simulink
+
+The project includes a complete MATLAB/Simulink implementation in the `matlab/` directory, mirroring the web simulation for offline analysis, parameter tuning, and academic validation.
+
+### MATLAB Quick Start
+
+```matlab
+cd matlab/
+CubeSat_Main   % Runs full simulation and generates plots
+```
+
+### Simulink Quick Start
+
+```matlab
+cd matlab/
+CubeSat_Simulink_Init    % Load workspace parameters
+CubeSat_Simulink_Setup   % Build the Simulink model
+sim('CubeSat_Simulink')  % Run simulation
+```
+
+### MATLAB Files
+
+| File | Description |
+|------|-------------|
+| `CubeSat_Main.m` | Main simulation script (60 Hz loop + plotting) |
+| `PhysicsEngine.m` | Rigid body dynamics (Euler's equations + quaternions) |
+| `FlightComputer.m` | EKF state estimation + PID control |
+| `QuatToEuler.m` | Quaternion → Euler conversion |
+| `QuatMultiply.m` | Quaternion multiplication |
+| `PlotResults.m` | Publication-quality result plots |
+| `CubeSat_Simulink_Setup.m` | Programmatic Simulink model builder |
+| `CubeSat_Simulink_Init.m` | Simulink workspace initialization |
+
+See [`matlab/README.md`](matlab/README.md) for full documentation.
+
+---
+
 ## Team & Contributors
 
 This project was built collaboratively by the following team:
