@@ -132,14 +132,17 @@ Here are the visual analyses of the key project images:
 
 ### System Visualization
 ![System Visualization](./images.png)
+
 *Analysis*: An overview of the system's structural or logical representation, illustrating the core components.
 
 ### Hardware / Simulation Interface
 ![Hardware / Simulation Interface](./images%20(1).jpg)
+
 *Analysis*: Displays the hardware components or simulation interface integration relevant to the hardware-in-the-loop setup.
 
 ### Simulation Output Still
 ![Simulation Output Still](./output_still_image_f01b9651-c3cb-4222-8730-2f68e2a23008.jpg)
+
 *Analysis*: A direct capture from the active simulation, demonstrating the real-time visual output of the CubeSat reaction wheel self-balancing algorithm.
 
 ---
