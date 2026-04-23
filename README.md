@@ -122,6 +122,28 @@ See [`matlab/README.md`](matlab/README.md) for full documentation.
 
 ---
 
+## Project Gallery & Image Analysis
+
+Here are the visual analyses of the key project images:
+
+### PID Autotuning Multirotor Example
+![PID Autotuning Multirotor Example](./PIDAutotuningMultirotorExample_13.png)
+*Analysis*: This image showcases the PID autotuning response for multirotor dynamics, highlighting the controller's ability to achieve stable attitude control under simulated conditions.
+
+### System Visualization
+![System Visualization](./images.png)
+*Analysis*: An overview of the system's structural or logical representation, illustrating the core components.
+
+### Hardware / Simulation Interface
+![Hardware / Simulation Interface](./images%20(1).jpg)
+*Analysis*: Displays the hardware components or simulation interface integration relevant to the hardware-in-the-loop setup.
+
+### Simulation Output Still
+![Simulation Output Still](./output_still_image_f01b9651-c3cb-4222-8730-2f68e2a23008.jpg)
+*Analysis*: A direct capture from the active simulation, demonstrating the real-time visual output of the CubeSat reaction wheel self-balancing algorithm.
+
+---
+
 ## Team & Contributors
 
 This project was built collaboratively by the following team:
