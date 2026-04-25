@@ -12,6 +12,7 @@ cd matlab/
 CubeSat_Main      % Runs full simulation and generates plots
 ```
 
+
 ### Simulink Model
 
 ```matlab
@@ -21,6 +22,7 @@ CubeSat_Simulink_Setup   % Build the Simulink model (.slx)
 % Then click "Run" in Simulink, or:
 sim('CubeSat_Simulink')
 ```
+
 
 ## File Descriptions
 
@@ -70,7 +72,4 @@ Running `CubeSat_Main.m` produces a 4-panel figure:
 ## Authors
 
 - ARYA M G C — System Architecture & Embedded HIL Integration
-- Ashwin R — Control Systems & Attitude Dynamics
-- Nithivalavan N — Simulation Framework & Software Development
-- Jayaraj M — Hardware Design & Power Systems
-- Vishal Meyyappan R — Telemetry & Communication Interfaces
+
